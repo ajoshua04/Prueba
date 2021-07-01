@@ -1,0 +1,10 @@
+com\data\CuentaDaoImpls.class
+com\servicio\TransaccionServiceRS.class
+com\domain\Cuenta.class
+com\data\TransaccionDaoImpl.class
+com\data\CuentaDao.class
+com\data\TransaccionDao.class
+com\web\CorstFilter.class
+com\servicio\CuentaServiceRS.class
+com\web\JAXRSActivator.class
+com\domain\Transaccion.class
